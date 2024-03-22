@@ -1,0 +1,7 @@
+.vscode/*
+
+build
+local
+
+.env
+node_modules
